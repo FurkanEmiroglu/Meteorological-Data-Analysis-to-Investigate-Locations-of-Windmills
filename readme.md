@@ -35,4 +35,4 @@ The first five winds can be considered as a group. But the last one isn't a memb
 
 -------------------------------------------------------------------------------------------------------
 **Result:** \
-This script examines the 2018 data of the Kuşadası / turkey meteorological station and groups the winds that meet the above-mentioned criteria. Thanks to these groupings, we can analyze the winds as storms and obtain inferences such as hourly distributions and directional distributions and make comments on whether the region is a logical choice for investment.
+This script examines the 2018 data of the Kusadası / Turkey weather station and groups the winds that meet the above-mentioned criteria. Thanks to these groupings, we can analyze the winds as storms and obtain inferences such as hourly distributions and directional distributions and make comments on whether the region is a logical choice for investment.
